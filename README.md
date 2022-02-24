@@ -1,6 +1,6 @@
 # dio-desafio-github
 
-reposiotrio criado para desafio de projeto da _dio_
+repositorio criado para desafio de projeto da _dio_
 
 _O que aprendi neste curso :grey_question:_
 
